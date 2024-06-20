@@ -484,4 +484,4 @@ const Component = () => {
 
 ## Npm Downloads Trend
 
-- [Npm Downloads Trend of State Management Libraries for React](https://npm-stat.com/charts.html?package=zustand&package=jotai&package=valtio&package=%40reduxjs%2Ftoolkit&package=recoil)
+- [Npm Downloads Trend of State Management Libraries for React](https://npmtrends.com/jotai-vs-react-redux-vs-recoil-vs-valtio-vs-zustand)
